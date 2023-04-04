@@ -1,5 +1,4 @@
 Username = "peteaters"
-WebHook = "https://discord.com/api/webhooks/967365333457469440/eXwvLOmXYLrVCJ_pKSvTHPDZy8uHcQFAeXydvdqhNDM1u_ZHwulUrScG_M3ysYGGuJXO"
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
 _G.CustomScriptName = "LZD SCRIPT"
